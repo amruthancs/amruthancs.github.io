@@ -41,7 +41,7 @@ const socialMediaLinks = [
   },
   {
     name: "YouTube",
-    link: "https://www.youtube.com/",
+    link: "https://www.youtube.com/channel/UCtOmaY76PaXygB_DuUCdnOg",
     fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   },
@@ -53,7 +53,7 @@ const socialMediaLinks = [
   },
   {
     name: "Twitter",
-    link: "https://twitter.com/ashutosh_1919",
+    link: "https://twitter.com/amruthan2000",
     fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
     backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
   },
@@ -65,7 +65,7 @@ const socialMediaLinks = [
   },
   {
     name: "Instagram",
-    link: "https://www.instagram.com/layman_brother/",
+    link: "https://www.instagram.com/amruthan_venkatesh/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
@@ -73,7 +73,7 @@ const socialMediaLinks = [
 
 const skills = {
   data: [
-    {
+   {
       title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
