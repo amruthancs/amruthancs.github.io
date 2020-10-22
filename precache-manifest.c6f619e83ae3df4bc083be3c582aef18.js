@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f102b8e36444abf8249136abf32a9c0a",
+    "revision": "653867952cb0a642b49f298e5b34fd39",
     "url": "/amruthancs.github.io/index.html"
   },
   {
-    "revision": "63bbae52e1ea3ed3a596",
+    "revision": "e59e48b5da54ed102ffe",
     "url": "/amruthancs.github.io/static/css/main.71dc02e5.chunk.css"
   },
   {
-    "revision": "b986ad677b49e717f0e8",
-    "url": "/amruthancs.github.io/static/js/2.4ebca0c7.chunk.js"
+    "revision": "009e17aa0caac5e1f58b",
+    "url": "/amruthancs.github.io/static/js/2.f3188405.chunk.js"
   },
   {
     "revision": "eaaf63558baae456918a991a401208d7",
-    "url": "/amruthancs.github.io/static/js/2.4ebca0c7.chunk.js.LICENSE.txt"
+    "url": "/amruthancs.github.io/static/js/2.f3188405.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "63bbae52e1ea3ed3a596",
-    "url": "/amruthancs.github.io/static/js/main.3b47bd14.chunk.js"
+    "revision": "e59e48b5da54ed102ffe",
+    "url": "/amruthancs.github.io/static/js/main.0d2ae7f8.chunk.js"
   },
   {
     "revision": "bc6960e477d601f2d52c",
@@ -210,6 +210,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4ba886bafb9ff0a5b71b800c47f45d90",
     "url": "/amruthancs.github.io/static/media/legato_logo.4ba886ba.png"
+  },
+  {
+    "revision": "e8240e9bfdb6e94155339fff1899ea26",
+    "url": "/amruthancs.github.io/static/media/logosrit.e8240e9b.png"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
