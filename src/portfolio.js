@@ -22,7 +22,7 @@ const socialMediaLinks = [
   // github: "https://github.com/amruthancs",
   // linkedin: "https://www.linkedin.com/in/amruthan/",
   // gmail: "amtn2000@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
+  // gitlab: "https://gitlab.com/amruthancs",
   // facebook: "https://www.facebook.com/amruthan.07",
   // twitter: "https://twitter.com/ashutosh_1919",
   // instagram: "https://www.instagram.com/amruthan_venkatesh/"
@@ -315,9 +315,9 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-      profileLink: "https://www.hackerrank.com/layman_brother",
+      profileLink: "https://www.hackerrank.com/amruthan",
     },
-    {
+   /* {
       siteName: "Codechef",
       iconifyClassname: "simple-icons:codechef",
       style: {
@@ -332,23 +332,23 @@ const competitiveSites = {
         color: "#1F8ACB",
       },
       profileLink: "http://codeforces.com/profile/layman_brother",
-    },
+    },*/
     {
       siteName: "Hackerearth",
       iconifyClassname: "simple-icons:hackerearth",
       style: {
         color: "#323754",
       },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
+      profileLink: "https://www.hackerearth.com/@amruthan",
     },
-    {
+    /*{
       siteName: "Kaggle",
       iconifyClassname: "simple-icons:kaggle",
       style: {
         color: "#20BEFF",
       },
       profileLink: "https://www.kaggle.com/laymanbrother",
-    },
+    },*/
   ],
 };
 
@@ -357,7 +357,7 @@ const degrees = {
     {
       title: "Sri Ramakrishna Institute of Technology",
       subtitle: "B.E in Mechanical Engineering",
-      logo_path: "iiitk_logo.png",
+      logo_path: "logosrit.png",
       alt_name: "Srit Coimbatore",
       duration: "2017 - Present",
       descriptions: [
@@ -369,7 +369,7 @@ const degrees = {
   ],
 };
 
-const certifications = {
+/*const certifications = {
   certifications: [
     {
       title: "Machine Learning",
@@ -482,7 +482,7 @@ const certifications = {
   ],
 };
 
-// Experience Page
+ Experience Page
 const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
@@ -618,7 +618,7 @@ const experience = {
       ],
     },
   ],
-};
+};*/
 
 // Projects Page
 const projectsHeader = {
@@ -632,7 +632,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "android-icon-192x192.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
@@ -640,19 +640,19 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://ashutoshhathidara.wordpress.com",
+    link: "https://lifeofmechon.xyz",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
     subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
+      "Thoppampalayam, Dist Coimbatore , Tamilnadu - 641032",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+91 8320758513",
+    subtitle: "+91 7418749575",
   },
 };
 
