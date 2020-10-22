@@ -317,7 +317,7 @@ const competitiveSites = {
       },
       profileLink: "https://www.hackerrank.com/amruthan",
     },
-   /* {
+    {
       siteName: "Codechef",
       iconifyClassname: "simple-icons:codechef",
       style: {
@@ -332,7 +332,7 @@ const competitiveSites = {
         color: "#1F8ACB",
       },
       profileLink: "http://codeforces.com/profile/layman_brother",
-    },*/
+    },
     {
       siteName: "Hackerearth",
       iconifyClassname: "simple-icons:hackerearth",
@@ -341,14 +341,14 @@ const competitiveSites = {
       },
       profileLink: "https://www.hackerearth.com/@amruthan",
     },
-    /*{
+    {
       siteName: "Kaggle",
       iconifyClassname: "simple-icons:kaggle",
       style: {
         color: "#20BEFF",
       },
       profileLink: "https://www.kaggle.com/laymanbrother",
-    },*/
+    },
   ],
 };
 
@@ -369,7 +369,7 @@ const degrees = {
   ],
 };
 
-/*const certifications = {
+const certifications = {
   certifications: [
     {
       title: "Machine Learning",
@@ -482,7 +482,7 @@ const degrees = {
   ],
 };
 
- Experience Page
+ //Experience Page
 const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
@@ -618,7 +618,7 @@ const experience = {
       ],
     },
   ],
-};*/
+};
 
 // Projects Page
 const projectsHeader = {
