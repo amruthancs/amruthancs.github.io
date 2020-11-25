@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/amruthancs.github.io/static/css/main.71dc02e5.chunk.css",
-    "main.js": "/amruthancs.github.io/static/js/main.0d2ae7f8.chunk.js",
-    "main.js.map": "/amruthancs.github.io/static/js/main.0d2ae7f8.chunk.js.map",
+    "main.js": "/amruthancs.github.io/static/js/main.f2a10088.chunk.js",
+    "main.js.map": "/amruthancs.github.io/static/js/main.f2a10088.chunk.js.map",
     "runtime-main.js": "/amruthancs.github.io/static/js/runtime-main.4e11c1e7.js",
     "runtime-main.js.map": "/amruthancs.github.io/static/js/runtime-main.4e11c1e7.js.map",
     "static/js/2.f3188405.chunk.js": "/amruthancs.github.io/static/js/2.f3188405.chunk.js",
     "static/js/2.f3188405.chunk.js.map": "/amruthancs.github.io/static/js/2.f3188405.chunk.js.map",
     "index.html": "/amruthancs.github.io/index.html",
-    "precache-manifest.c6f619e83ae3df4bc083be3c582aef18.js": "/amruthancs.github.io/precache-manifest.c6f619e83ae3df4bc083be3c582aef18.js",
+    "precache-manifest.77165f53d7f3dd49a9529570cc18521e.js": "/amruthancs.github.io/precache-manifest.77165f53d7f3dd49a9529570cc18521e.js",
     "service-worker.js": "/amruthancs.github.io/service-worker.js",
     "static/css/main.71dc02e5.chunk.css.map": "/amruthancs.github.io/static/css/main.71dc02e5.chunk.css.map",
     "static/js/2.f3188405.chunk.js.LICENSE.txt": "/amruthancs.github.io/static/js/2.f3188405.chunk.js.LICENSE.txt",
@@ -55,6 +55,6 @@
     "static/js/runtime-main.4e11c1e7.js",
     "static/js/2.f3188405.chunk.js",
     "static/css/main.71dc02e5.chunk.css",
-    "static/js/main.0d2ae7f8.chunk.js"
+    "static/js/main.f2a10088.chunk.js"
   ]
 }

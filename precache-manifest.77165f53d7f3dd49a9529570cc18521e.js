@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "653867952cb0a642b49f298e5b34fd39",
+    "revision": "e23d57df41fe640449e86ceac640d0e7",
     "url": "/amruthancs.github.io/index.html"
   },
   {
-    "revision": "e59e48b5da54ed102ffe",
+    "revision": "1c893b3c4191632d717b",
     "url": "/amruthancs.github.io/static/css/main.71dc02e5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amruthancs.github.io/static/js/2.f3188405.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e59e48b5da54ed102ffe",
-    "url": "/amruthancs.github.io/static/js/main.0d2ae7f8.chunk.js"
+    "revision": "1c893b3c4191632d717b",
+    "url": "/amruthancs.github.io/static/js/main.f2a10088.chunk.js"
   },
   {
     "revision": "bc6960e477d601f2d52c",
