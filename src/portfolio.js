@@ -9,7 +9,7 @@ const settings = {
 const greeting = {
   title: "Amruthan C S",
   logo_name: "Amruthan C S",
-  nickname: "Adorable Mechon",
+  nickname: "Machine Learning Practitioner",
   subTitle:
     "A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
